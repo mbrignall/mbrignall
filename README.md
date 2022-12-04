@@ -44,9 +44,7 @@
 - :zap: In my free time I explore lesser known OS (currently EXWM), working on electronic projects and play fingerstyle guitar :guitar:
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinbrignall/)
-<hr>
 
-</div>
 </body>
 </html>
 <!---
