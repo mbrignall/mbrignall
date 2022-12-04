@@ -10,12 +10,12 @@
 <hr>
 <table width="250" height="300" border="5">
     <tr>
-        <th><h1>I :heart:</h1></th>
-        <th><h1>I :school:</h1></th>
-        <th><h1>I :thinking:</h1></th>
+        <th width="40" height="40"><h2>I :heart:</h2></th>
+        <th width="40" height="40"><h2>I :school:</h2></th>
+        <th width="40" height="40"><h2>I :thinking:</h2></th>
     </tr>
     <tr>
-        <td align=center> <img style="border=10px solidblack;" src="https://simpleicons.org/icons/raspberrypi.svg" width="40" height="40"/> </td>
+        <td align=center> <img src="https://simpleicons.org/icons/raspberrypi.svg" width="40" height="40"/> </td>
         <td align=center> <img src="https://simpleicons.org/icons/html5.svg" width="40" height="40"/> </td> 
         <td align=center> <img src="https://simpleicons.org/icons/css3.svg" width="40" height="40"/> </td> 
     </tr>
