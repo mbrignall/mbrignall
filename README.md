@@ -8,7 +8,7 @@
 
 ### :hammer_and_wrench: 
 <hr>
-<table width="250" height="300" border="5">
+<table width="250" height="400" border="5">
     <tr>
         <th><h1>I :heart:</h1></th>
         <th><h1>I :school:</h1></th>
@@ -41,7 +41,7 @@
 
 - :seedling: Exploring new languages and environments
 
-- :zap: In my free time I explore lesser known OS (currently EXWM), working on electronic projects and play fingerstyle guitar :guitar:
+- :zap: In my free time I explore window managers (currently EXWM, Sway), working on electronic projects and playing fingerstyle guitar :guitar:
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinbrignall/)
 <hr>
