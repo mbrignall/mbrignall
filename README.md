@@ -8,7 +8,7 @@
 
 ### :hammer_and_wrench: 
 <hr>
-<table width="250" height="350" border="2">
+<table width="300" height="350" border="2">
     <tr>
         <th><h1>I :heart:</h1></th>
         <th><h1>I :school:</h1></th>
