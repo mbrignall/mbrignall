@@ -6,6 +6,7 @@ I'm a *Developer Tooling Specialist* :hammer_and_wrench:, brewing up solutions t
 
 -----
 
+#+ATTR_HTML: :center 1
 | I :heart:                                       | I :school:                                     | I :thinking:                                     |
 |-------------------------------------------------+------------------------------------------------+--------------------------------------------------|
 | [[file:https://simpleicons.org/icons/linux.svg]]    | [[file:https://simpleicons.org/icons/gnubash.svg]] | [[file:https://simpleicons.org/icons/go.svg]]        |
