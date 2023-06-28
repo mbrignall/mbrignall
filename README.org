@@ -6,10 +6,10 @@ I'm a *Developer Tooling Specialist* :hammer_and_wrench:, brewing up solutions t
 
 -----
 
-| I :heart:  | I :school:   | I :thinking: |
-|------------+--------------+--------------|
-| [[https://simpleicons.org/icons/linux.svg][file:linux]] | [[https://simpleicons.org/icons/gnubash.svg][file:gnubash]] | [[https://simpleicons.org/icons/go.svg][file:go]]      |
-| [[https://simpleicons.org/icons/gnuemacs.svg][file:emacs]] | [[https://simpleicons.org/icons/python.svg][file:python]]  | [[https://simpleicons.org/icons/amazonaws.svg][file:aws]]     |
+| I :heart:                                       | I :school:                                     | I :thinking:                                     |
+|-------------------------------------------------+------------------------------------------------+--------------------------------------------------|
+| [[file:https://simpleicons.org/icons/linux.svg]]    | [[file:https://simpleicons.org/icons/gnubash.svg]] | [[file:https://simpleicons.org/icons/go.svg]]        |
+| [[file:https://simpleicons.org/icons/gnuemacs.svg]] | [[file:https://simpleicons.org/icons/python.svg]]  | [[file:https://simpleicons.org/icons/amazonaws.svg]] |
 
 - :telescope: NixOS/Silverblue, Immutable OS | Backend
 
