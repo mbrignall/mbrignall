@@ -6,10 +6,10 @@
 
 -----
 
-  |   I :heart:                                              |   I :school:                                              |   I :thinking:                                                |
-  |----------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------|
-  | [[https://simpleicons.org/icons/linux.svg][file:linux]]   | [[https://simpleicons.org/icons/gnubash.svg][file:gnubash]]   | [[https://simpleicons.org/icons/go.svg][file:go]]             |
-  | [[https://simpleicons.org/icons/gnuemacs.svg][file:emacs]] | [[https://simpleicons.org/icons/python.svg][file:python]]   | [[https://simpleicons.org/icons/amazonaws.svg][file:aws]]      |
+  | I :heart:                                                                                                                                                                            | I :school:                                                  | I :thinking:                                              |
+  | ----------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------- |                                                             |                                                           |
+  | [[https://simpleicons.org/icons/linux.svg][file:linux]]                                                                                                                              | [[https://simpleicons.org/icons/gnubash.svg][file:gnubash]] | [[https://simpleicons.org/icons/go.svg][file:go]]         |
+  | [[https://simpleicons.org/icons/gnuemacs.svg][file:emacs]]                                                                                                                           | [[https://simpleicons.org/icons/python.svg][file:python]]   | [[https://simpleicons.org/icons/amazonaws.svg][file:aws]] |
 
 - :telescope: *Developer Tooling Specialist* | NixOS/Silverblue, Immutable OS | Webdev |
 
