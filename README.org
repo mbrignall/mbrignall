@@ -22,6 +22,5 @@ I'm a *Developer Tooling Specialist* :hammer_and_wrench:, brewing up solutions t
 - :zap: Electronic Music | Fingerstyle guitar
 
 - :mailbox: How to reach me:
-  #+attr_html: :width 50px
-  [[file:https://simpleicons.org/icons/linkedin.svg]]
-  [[https://www.linkedin.com/in/martinbrignall/][Linkedin]]
+
+  - [[https://www.linkedin.com/in/martinbrignall/][linkedin]]
