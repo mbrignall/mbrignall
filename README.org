@@ -12,14 +12,14 @@ I'm a *Developer Tooling Specialist* :hammer_and_wrench:, brewing up solutions t
 | [[file:https://simpleicons.org/icons/nixos.svg]]    | [[file:https://simpleicons.org/icons/gnubash.svg]] | [[file:https://simpleicons.org/icons/go.svg]]        |
 | [[file:https://simpleicons.org/icons/gnuemacs.svg]] | [[file:https://simpleicons.org/icons/python.svg]]  | [[file:https://simpleicons.org/icons/amazonaws.svg]] |
 
+-----
+
+
 - :telescope: NixOS/Silverblue, Immutable OS | Backend
 
 - :seedling: *Explorer* | Curious, inquisitive.
 
 - :zap: Electronic Music | Fingerstyle guitar
 
-- :mailbox: How to reach me:
+- :mailbox: How to reach me: [[file:https://img.shields.io/badge/-martin-blue?style=flat&logo=Linkedin&logoColor=white]]
   [[https://www.linkedin.com/in/martinbrignall/][Linkedin]]
-
------
-
