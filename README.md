@@ -2,7 +2,7 @@
 
 * Hi, I’m @mbrignall
 
-- :hammer_and_wrench: *Developer Tooling Specialist*
+I'm a *Developer Tooling Specialist* :hammer_and_wrench:, brewing up solutions that make developers' lives easier and their code smoother. 
 
 -----
 
@@ -12,7 +12,8 @@
 
 - :zap: Electronic Music | Fingerstyle guitar
 
-- :mailbox: How to reach me: [[https://www.linkedin.com/in/martinbrignall/][Linkedin]]
+- :mailbox: How to reach me:
+  [[https://www.linkedin.com/in/martinbrignall/][Linkedin]]
 
 -----
 
