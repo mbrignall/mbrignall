@@ -21,7 +21,3 @@ I'm a *Developer Tooling Specialist* :hammer:, brewing up solutions that make de
 
 - :zap: Electronic Music | Fingerstyle guitar
 
-- :mailbox: How to reach me:
-
-  - [[file:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]]
-    [[https://www.linkedin.com/in/martinbrignall][Link me]] 🐂
