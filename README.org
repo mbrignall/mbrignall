@@ -23,4 +23,4 @@ I'm a *Developer Tooling Specialist* :hammer:, brewing up solutions that make de
 
 - :mailbox: How to reach me:
 
-  - [[https://www.linkedin.com/in/martinbrignall][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]] 🐂
+  - [[https://www.linkedin.com/in/martinbrignall][file:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]] 🐂
