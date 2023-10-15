@@ -15,7 +15,7 @@ I'm a *Developer Tooling Specialist* :hammer:, brewing up solutions that make de
 -----
 
 
-- :telescope: NixOS/Silverblue, Immutable OS | Backend
+- :telescope: NixOS | Backend
 
 - :seedling: *Explorer* | Curious, inquisitive.
 
