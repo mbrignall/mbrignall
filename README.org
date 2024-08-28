@@ -2,20 +2,9 @@
 
 * Hi, I’m @mbrignall
 
-I'm a *Developer Tooling Specialist* :hammer:, brewing up solutions that make developers' lives easier and their code smoother. 
+*Cyber Defence Engineer*, blue team, spinning up automations. Side hustling Web Dev.
 
------
-
-#+ATTR_HTML: :width 80%
-| I :heart:                                       | I :school:                                     | I :thinking:                                     |
-|-------------------------------------------------+------------------------------------------------+--------------------------------------------------|
-| [[file:https://simpleicons.org/icons/nixos.svg]]    | [[file:https://simpleicons.org/icons/gnubash.svg]] | [[file:https://simpleicons.org/icons/go.svg]]        |
-| [[file:https://simpleicons.org/icons/gnuemacs.svg]] | [[file:https://simpleicons.org/icons/python.svg]]  | [[file:https://simpleicons.org/icons/amazonaws.svg]] |
-
------
-
-
-- :telescope: NixOS | Backend
+- :telescope: NixOS | IaC/Terraform | Yara | Django 
 
 - :seedling: *Explorer* | Curious, inquisitive.
 
