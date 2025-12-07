@@ -7,8 +7,13 @@
 - :telescope: Exploring: NixOS | IaC/Terraform | C | Emacs
 - :seedling: Me in 3: Curious, inquisitive, pragmatic.
 - :zap: Feel goods: EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey
-- :book: Currently reading: "To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse" - Howard Fishman
-- :book: Recently finished: "Code: The Hidden Language of Computer Hardware and Software" - Charles Petzold
+- :book: Currently reading:
+
+  "To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse" - Howard Fishman.
+  
+- :book: Recently finished:
+
+  "Code: The Hidden Language of Computer Hardware and Software" - Charles Petzold
 
   I'm somewhere between a obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
 
