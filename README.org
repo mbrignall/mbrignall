@@ -4,11 +4,19 @@
 
 *Security Engineer* (blue team); casting automations and protecting the org. 
 
-- :telescope: Exploring: NixOS | IaC/Terraform | C | Emacs
-- :seedling: Me in 3: Curious, inquisitive, pragmatic.
-- :zap: Feel goods: EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey
+** Exploring:
 
-  I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
+:telescope: NixOS | IaC/Terraform | C | Emacs
+
+** Me in 3:
+
+:seedling: Curious, inquisitive, pragmatic.
+
+** Feel goods:
+
+:zap: EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey
+
+I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
   
 ** Currently reading:                                                 :book: 
 
