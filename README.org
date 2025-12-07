@@ -10,13 +10,13 @@
 
   I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
   
-:book: Currently reading:
+** Currently reading:                                                 :book: 
 
   *To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse* - Howard Fishman.
   
-:book: Recently finished:
+** Recently finished:                                                 :book:
 
   *Code: The Hidden Language of Computer Hardware and Software* - Charles Petzold
 
 
-  *"Never stop learning"*
+* *"Never stop learning"*
