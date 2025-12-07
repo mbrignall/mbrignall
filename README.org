@@ -2,11 +2,15 @@
 
 * Hi, I’m @mbrignall
 
-*Cyber Defence Engineer*, blue team, spinning up automations. Side hustling Web Dev.
+*Security Engineer* (blue team); casting automations and protecting the org. 
 
-- :telescope: NixOS | IaC/Terraform | Yara | Django 
+- :telescope: Exploring: NixOS | IaC/Terraform | C | Emacs
+- :seedling: Me in 3: Curious, inquisitive, pragmatic.
+- :zap: Feel goods: EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey
+  
+- :book: currently reading: "To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse" - Howard Fishman
+- :book: recently finished: "Code: The Hidden Language of Computer Hardware and Software" - Charles Petzold
 
-- :seedling: *Explorer* | Curious, inquisitive.
+  I'm somewhere between a obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
 
-- :zap: Electronic Music | Fingerstyle guitar
-
+  "Never stop learning"
