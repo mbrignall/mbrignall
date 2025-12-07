@@ -6,15 +6,15 @@
 
 ** Exploring:
 
-:telescope: NixOS | IaC/Terraform | C | Emacs
+NixOS | IaC/Terraform | C | Emacs :telescope:
 
 ** Me in 3:
 
-:seedling: Curious, inquisitive, pragmatic.
+Curious, inquisitive, pragmatic. :seedling:
 
 ** Feel goods:
 
-:zap: EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey
+EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey :zap:
 
 I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
   
