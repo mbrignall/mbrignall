@@ -4,6 +4,8 @@
 
 *Security Engineer* (blue team); casting automations and protecting the org. 
 
+I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
+
 ** Exploring:
 
 NixOS | IaC/Terraform | C | Emacs :telescope:
@@ -16,15 +18,14 @@ Curious, inquisitive, pragmatic. :seedling:
 
 EDM/IDM | Punk/HxC (+subgenres of) | The fingerstyle guitar of John Fahey :zap:
 
-I'm somewhere between an obsessive discoverer of the strange and unusual (music or emphemera) and a wannabe computer science student. I prefer e-waste to brand new devices and things.
   
-** Currently reading:                                                 :book: 
+** Currently reading:                                                
 
-  *To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse* - Howard Fishman.
+  *To Anyone Who Ever Asks: The Life, Music and Mystery of Connie Converse* - Howard Fishman. :book:
   
-** Recently finished:                                                 :book:
+** Recently finished:                                                
 
-  *Code: The Hidden Language of Computer Hardware and Software* - Charles Petzold
+  *Code: The Hidden Language of Computer Hardware and Software* - Charles Petzold  :book:
 
 
 * *"Never stop learning"*
